@@ -33,3 +33,6 @@
 14. Cart
 
 #### React Routerr
+
+--Manual Mode -- 
+##useState counter
