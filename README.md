@@ -35,4 +35,6 @@
 #### React Routerr
 
 --Manual Mode -- 
-##useState counter
+1.useState counter
+2.useEffect
+
