@@ -1,3 +1,20 @@
+--Manual Mode -- 
+1.useState counter
+2.useEffect
+3.conditional rendering
+4.forms
+
+
+
+
+
+
+
+
+
+
+
+
 ## Corresponding Projects
 
 #### useState
@@ -34,7 +51,4 @@
 
 #### React Routerr
 
---Manual Mode -- 
-1.useState counter
-2.useEffect
 
